@@ -1,2 +1,0 @@
-- please install conda or miniconda first https://www.anaconda.com/docs/getting-started/miniconda/install#linux-terminal-installer
-- there will be read_me text files in both directories how to start each services
